@@ -1,0 +1,6 @@
+path: Datasets
+train: train
+val: test
+
+nc: 6
+names: ['elephant', 'bear', 'horse', 'giraffe', 'zebra', 'sheep']
